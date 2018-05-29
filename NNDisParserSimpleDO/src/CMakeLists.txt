@@ -1,0 +1,7 @@
+include_directories(
+  basic
+)
+
+add_subdirectory(NNDisParserSimpleDelNonLinearSynFeat0123EtypeDO)
+add_subdirectory(NNDisParserSimpleDelNonLinearSynFeat0123EtypeDORand)
+add_subdirectory(NNDisParserSimpleDelNonLinearSynFeat0123EtypeDOStartN)

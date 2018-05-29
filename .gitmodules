@@ -1,0 +1,3 @@
+[submodule "NNDisParserSimpleDO/N3LDG"]
+	path = NNDisParserSimpleDO/N3LDG
+	url = https://github.com/chncwang/N3LDG-1
